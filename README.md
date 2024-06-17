@@ -1,5 +1,8 @@
 # houseprice-demo
-Demo Data for online House Price Prediction
+
+This project is written by R language (using RStudio)
+
+Demo Data for online House Price Prediction.
 
 The Foghlaim Meaisin Software recently launched the Foghlaim Meaisin House Price Prediction software
 
@@ -60,6 +63,10 @@ MSE = 13045.89
 MSE = 13078.88
 
 <img src="marketing/Partial Least Squares Regression.png">
+
+# R language and RStudio
+
+<img src="marketing/RStudio.png">
 
 This Repo is for Marketing Demo tasks.
 
